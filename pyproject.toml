@@ -3,12 +3,9 @@ name = "imersao-dados-alura"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.14.2"
 dependencies = [
-    "altair>=6.0.0",
-    "matplotlib>=3.10.8",
-    "pandas>=3.0.0",
     "plotly>=6.5.2",
-    "seaborn>=0.13.2",
-    "streamlit>=1.19.0",
+    "pycountry>=24.6.1",
+    "streamlit>=1.53.1",
 ]
